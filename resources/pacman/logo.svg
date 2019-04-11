@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg832"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs826" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="74.934244"
+     inkscape:cy="39.502782"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1533"
+     inkscape:window-height="845"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata829">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0 1072.5195 L 0 1122.5195 L 2.5 1122.5195 L 17.5 1122.5195 L 17.5 1102.5195 L 20.5 1102.5195 L 20.5 1102.4766 A 17.499999 14.999998 0 0 0 21.5 1102.5195 A 17.499999 14.999998 0 0 0 39 1087.5195 A 17.499999 14.999998 0 0 0 21.5 1072.5195 A 17.499999 14.999998 0 0 0 20.5 1072.5488 L 20.5 1072.5195 L 17.5 1072.5195 L 11.5 1072.5195 L 2.5 1072.5195 L 0 1072.5195 z M 20 1085.0195 A 2.4999999 2.499999 0 0 1 22.5 1087.5195 A 2.4999999 2.499999 0 0 1 20 1090.0195 A 2.4999999 2.499999 0 0 1 17.5 1087.5195 A 2.4999999 2.499999 0 0 1 20 1085.0195 z "
+       transform="scale(0.26458333)"
+       id="path1389"
+       inkscape:export-filename="/home/d3l74/Documents/java/pacman/resources/pacman/logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 28.44271,283.77083 a 6.614583,6.614583 0 0 0 -6.614584,6.61458 6.614583,6.614583 0 0 0 6.614584,6.61458 6.614583,6.614583 0 0 0 5.909717,-3.65971 l -5.909717,-2.95487 5.914368,-2.95691 a 6.614583,6.614583 0 0 0 -5.914368,-3.65767 z"
+       id="path1377"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/d3l74/Documents/java/pacman/resources/pacman/logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 15.875001,283.77078 -3.307292,6.61458 -3.3072917,6.61459 h 6.6145837 6.614583 l -3.307291,-6.61459 z m 0,8.59896 a 0.99218677,0.99218688 0 0 1 0.992187,0.99219 0.99218677,0.99218688 0 0 1 -0.992187,0.99218 0.99218677,0.99218688 0 0 1 -0.992188,-0.99218 0.99218677,0.99218688 0 0 1 0.992188,-0.99219 z"
+       id="path931"
+       inkscape:export-filename="/home/d3l74/Documents/java/pacman/resources/pacman/logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect933"
+       width="7.9375"
+       height="3.96875"
+       x="35.057289"
+       y="288.40103"
+       inkscape:export-filename="/home/d3l74/Documents/java/pacman/resources/pacman/logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 57.385128,283.77082 -3.307291,3.3073 -3.307292,3.30729 -3.307291,-3.30729 -3.145545,-3.14553 v 13.0674 h 13.229167 v -13.22917 z"
+       id="rect935"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/d3l74/Documents/java/pacman/resources/pacman/logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 70.77604,283.77083 v 13.22916 h 13.229164 v -13.22916 h -6.614581 v 6.61458 l -3.307292,-3.30729 z"
+       id="rect955"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/d3l74/Documents/java/pacman/resources/pacman/logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 64.161461,283.77083 -3.307292,6.61458 -3.307292,6.61458 h 6.614584 6.614583 l -3.307291,-6.61458 z m 0,8.59896 a 0.99218679,0.99218689 0 0 1 0.992187,0.99218 0.99218679,0.99218689 0 0 1 -0.992187,0.99219 0.99218679,0.99218689 0 0 1 -0.992188,-0.99219 0.99218679,0.99218689 0 0 1 0.992188,-0.99218 z"
+       id="path931-7"
+       inkscape:export-filename="/home/d3l74/Documents/java/pacman/resources/pacman/logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+  </g>
+</svg>
